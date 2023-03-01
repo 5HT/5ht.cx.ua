@@ -1,4 +1,4 @@
-file=ukrpost-2005.txt
+file=ukrpost-2006.txt
 cat $file | grep Аркуш | wc -l
 cat $file | grep Зчіпка | wc -l
 cat $file | grep Блок | wc -l
